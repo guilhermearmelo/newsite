@@ -9,8 +9,8 @@ const Nav = () => {
             </a>
             <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
                 <a className="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#" title="Home">Home</a>
-                <a className="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#" title="Tecnologies">Portfolio</a>
-                <a className="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#" title="Portfolio">Tecnologies</a>
+                <a className="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#" title="Tecnologies">Tecnologies</a>
+                <a className="link dim dark-gray f6 f5-l dib mr3 mr4-l" href="#Portfolio" title="Portfolio">Portfolio</a>
                 <a className="link dim dark-gray f6 f5-l dib" href="#" title="Contact">Contact</a>
             </div>
             </nav>
