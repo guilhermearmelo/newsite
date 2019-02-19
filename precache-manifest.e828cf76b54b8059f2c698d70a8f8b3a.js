@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/java_icon.e51235bd.png"
   },
   {
-    "revision": "59a9d7212215525346de",
+    "revision": "9bdbc306daceddb194ec",
     "url": "/newsite/static/css/main.2872fc9f.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/footer.3457c201.gif"
   },
   {
-    "revision": "59a9d7212215525346de",
-    "url": "/newsite/static/js/main.59a9d721.chunk.js"
+    "revision": "9bdbc306daceddb194ec",
+    "url": "/newsite/static/js/main.9bdbc306.chunk.js"
   },
   {
     "revision": "198c8b45c8e78e79ced5371e26c1837f",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/newsite/static/css/2.0d2a809b.chunk.css"
   },
   {
-    "revision": "3dd4d8eb32cf7118c3875068c744d3de",
+    "revision": "3c75f0a5236f47d233f25755172a8f8e",
     "url": "/newsite/index.html"
   }
 ];
