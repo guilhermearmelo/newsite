@@ -1,5 +1,27 @@
 import React from 'react';
+
+import cpp_icon from '../../resources/cpp_icon.png';
+import css_icon from '../../resources/css_icon.png';
 import html_icon from '../../resources/html_icon.png';
+import java_icon from '../../resources/java_icon.png';
+import javascript_icon from '../../resources/javascript_icon.png';
+import ocaml_icon from '../../resources/ocaml_icon.png';
+import python_icon from '../../resources/python_icon.png';
+import lua_icon from '../../resources/lua_icon.png';
+
+/*
+<div class="fl w-50 w-25-m w-20-l pa2">
+                        <a href="https://www.w3schools.com/css/" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={css_icon} alt="Young Thug - Jeffery Album Cover" class="w-100 db outline black-10"/>
+                            <dl class="mt2 f6 lh-copy">
+                            <dt class="clip">Title</dt>
+                            <dd class="ml0 black truncate w-100 ttu">CSS3</dd>
+                            <dt class="clip">Artist</dt>
+                            <dd class="ml0 gray truncate w-100">Language Description</dd>
+                            </dl>
+                        </a>
+                        </div>
+*/
 
 const Tecnologies = () => {
     return (
@@ -9,115 +31,91 @@ const Tecnologies = () => {
                     <h2 class="f3 fw4 pa3 mv0">Tecnologies</h2>
                     <div class="cf pa2">
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/blonde/id1146195596?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
+                        <a href="https://www.w3schools.com/" class="db link dim tc hide-child" target="_blank" rel="noopener noreferrer">
                             <img src={html_icon} alt="Frank Ocean Blonde Album Cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Blonde</dd>
+                            <dd class="ml0 black truncate w-100">HTML5</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Frank Ocean</dd>
+                            <dd class="ml0 gray truncate w-100">Front-end language</dd>
                             </dl>
                         </a>
                         </div>
+                        
+                        
+                        
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/jeffery/id1146718343?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is1.mzstatic.com/image/thumb/Music71/v4/c8/2d/b1/c82db1cd-9dc5-d7cb-2a34-735cf47bb809/source/400x40000bb.png" alt="Young Thug - Jeffery Album Cover" class="w-100 db outline black-10"/>
+                        <a href="http://www.cplusplus.com/reference/" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={cpp_icon} alt="Kendrick Lamar untitled unmastered. Album Cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100 ttu">Jeffery</dd>
+                            <dd class="ml0 black truncate w-100">C/C++</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Young Thug</dd>
+                            <dd class="ml0 gray truncate w-100">Multi-paradigm programming language</dd>
                             </dl>
                         </a>
                         </div>
+                        
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/untitled-unmastered./id1089846273?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is5.mzstatic.com/image/thumb/Music49/v4/1b/36/43/1b3643c6-e6a3-41bc-7f6d-7c2b64b5d60b/source/400x40000bb.png" alt="Kendrick Lamar untitled unmastered. Album Cover" class="w-100 db outline black-10"/>
+                        <a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={java_icon} alt="Kaytranada 99%" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">untitled umastered.</dd>
+                            <dd class="ml0 black truncate w-100">JAVA</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Kendrick Lamar</dd>
+                            <dd class="ml0 gray truncate w-100">Multi-paradigm programming language</dd>
                             </dl>
                         </a>
                         </div>
+                        
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/99.9/id1092026376?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is4.mzstatic.com/image/thumb/Music49/v4/e9/4c/2d/e94c2d5f-bdb0-c565-4cc2-f9dfcf7f0b87/source/400x40000bb.png" alt="Kaytranada 99%" class="w-100 db outline black-10"/>
+                        <a href="https://devdocs.io/javascript/" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={javascript_icon} alt="Baauer Aa - Album Cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">99%</dd>
+                            <dd class="ml0 black truncate w-100">JAVASCRIPT</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Kaytranada</dd>
+                            <dd class="ml0 gray truncate w-100">Multi-paradigm programming language</dd>
                             </dl>
                         </a>
                         </div>
+                        
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/aa/id1067924003?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is3.mzstatic.com/image/thumb/Music49/v4/b6/b0/a1/b6b0a1dd-998d-9786-ca2f-87470be15250/source/400x40000bb.png" alt="Baauer Aa - Album Cover" class="w-100 db outline black-10"/>
+                        <a href="https://ocaml.org/docs/" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={ocaml_icon} alt="Santigold 99 cents - Album cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Aa</dd>
+                            <dd class="ml0 black truncate w-100">OCAML</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Baauer</dd>
+                            <dd class="ml0 gray truncate w-100">Functional programming language</dd>
                             </dl>
                         </a>
                         </div>
+                        
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/99-cents/id1054734475?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is3.mzstatic.com/image/thumb/Music62/v4/fa/ae/a6/faaea65f-0819-bb5d-afaa-4f5e84015204/source/400x40000bb.png" alt="Santigold 99 cents - Album cover" class="w-100 db outline black-10"/>
+                        <a href="https://docs.python.org/3/" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={python_icon} alt="A Moon Shaped Pool - Album cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">99 cents</dd>
+                            <dd class="ml0 black truncate w-100">PYTHON</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Santigold</dd>
+                            <dd class="ml0 gray truncate w-100">Multi-paradigm programming language</dd>
                             </dl>
                         </a>
                         </div>
+                        
                         <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/a-moon-shaped-pool/id1111577743?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is2.mzstatic.com/image/thumb/Music18/v4/34/03/34/34033451-12e2-2d0b-c100-11a390922a01/source/400x40000bb.png" alt="A Moon Shaped Pool - Album cover" class="w-100 db outline black-10"/>
+                        <a href="https://www.lua.org/docs.html" class="db link dim tc" target="_blank" rel="noopener noreferrer">
+                            <img src={lua_icon} alt="A Moon Shaped Pool - Album cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">A Moon Shaped Pool</dd>
+                            <dd class="ml0 black truncate w-100">LUA</dd>
                             <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Radiohead</dd>
+                            <dd class="ml0 gray truncate w-100"></dd>
                             </dl>
                         </a>
                         </div>
-                        <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/the-life-of-pablo/id1123231885?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is3.mzstatic.com/image/thumb/Music20/v4/c0/98/d0/c098d05b-7bcc-0ea3-0213-0f69992fda65/source/400x40000bb.png" alt="The Life of Pablo - Album Cover" class="w-100 db outline black-10"/>
-                            <dl class="mt2 f6 lh-copy">
-                            <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">The Life of Pablo</dd>
-                            <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Kanye West</dd>
-                            </dl>
-                        </a>
-                        </div>
-                        <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/coloring-book/id1113239004?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is2.mzstatic.com/image/thumb/Music18/v4/5a/42/0f/5a420f73-6490-abc9-bdcc-3001d5c4e9fc/source/400x40000bb.png" alt="Coloring Book - Album cover" class="w-100 db outline black-10"/>
-                            <dl class="mt2 f6 lh-copy">
-                            <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Coloring Book</dd>
-                            <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Chance the Rapper</dd>
-                            </dl>
-                        </a>
-                        </div>
-                        <div class="fl w-50 w-25-m w-20-l pa2">
-                        <a href="https://geo.itunes.apple.com/us/album/everybody-looking/id1135576036?at=1l3vqFJ&mt=1&app=music" class="db link dim tc">
-                            <img src="http://is4.mzstatic.com/image/thumb/Music30/v4/9b/2e/e1/9b2ee13e-35fd-0cc1-d203-e65b4beafc7f/source/400x40000bb.png" alt="Everybody Looking - Album Cover" class="w-100 db outline black-10"/>
-                            <dl class="mt2 f6 lh-copy">
-                            <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Everybody Looking</dd>
-                            <dt class="clip">Artist</dt>
-                            <dd class="ml0 gray truncate w-100">Gucci Mane</dd>
-                            </dl>
-                        </a>
-                        </div>
+
                     </div>
                 </article>
             </div>

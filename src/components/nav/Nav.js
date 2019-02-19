@@ -3,7 +3,7 @@ import React from 'react';
 const Nav = () => {
     return (
         <div id="home">
-            <nav className="db dt-l w-100 border-box pa3 ph5-l bb bg-black-90">
+            <nav className="db dt-l w-100 border-box pa3 ph5-l bb bg-black-90 fixed">
             <a className="db dtc-l v-mid white link dim w-100 w-25-l tc tl-l mb2 mb0-l" href="#home" title="Home">
                 GUILHERME MELO
             </a>
