@@ -4,7 +4,7 @@ git commit -m "Create a React app and publish it to GitHub Pages"
 git push origin master
 
 
-# Deploying a React App* to GitHub Pages
+# Deploying a React App* to GitHub Pages update
 
 \* created using `create-react-app`
 

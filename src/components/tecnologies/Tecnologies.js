@@ -119,6 +119,14 @@ const Tecnologies = () => {
                     </div>
                 </article>
             </div>
+
+            <div>
+                DIV 2
+            </div>
+            
+            <div>
+                DIV 3
+            </div>
         </section>    
     );
 }
