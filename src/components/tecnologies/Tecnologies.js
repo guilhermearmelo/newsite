@@ -121,11 +121,15 @@ const Tecnologies = () => {
             </div>
 
             <div>
-                DIV 2
+                TO DO: 
             </div>
             
             <div>
-                DIV 3
+                FRAMEWORKS
+            </div>
+            
+            <div>
+                LIBRARIES
             </div>
         </section>    
     );
