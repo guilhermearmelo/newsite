@@ -2,7 +2,7 @@
   "name": "newsite",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://guilhermearmelo.github.io",
+  "homepage": "http://guilhermearmelo.github.io/newsite",
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",

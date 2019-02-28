@@ -4,7 +4,8 @@ import foot from './footer.gif';
 const Footer = () => {
     return (
         <div>
-            <footer 
+            <footer  
+                id="contact"
                 style= {{backgroundImage: `url(${foot})`}}
                 className="tc-l bg-center cover bg-black">
                 <div class="w-100 ph3 pv5 bg-black-80">

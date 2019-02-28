@@ -11,7 +11,7 @@ const Nav = () => {
                 <a className="link dim white f6 f5-l dib mr3 mr4-l" href="#home" title="Home">Home</a>
                 <a className="link dim white f6 f5-l dib mr3 mr4-l" href="#tecnologies" title="Tecnologies">Tecnologies</a>
                 <a className="link dim white f6 f5-l dib mr3 mr4-l" href="#portfolio" title="Portfolio">Portfolio</a>
-                <a className="link dim white f6 f5-l dib" href="#" title="Contact">Contact</a>
+                <a className="link dim white f6 f5-l dib" href="#contact" title="Contact">Contact</a>
             </div>
             </nav>
         </div>
