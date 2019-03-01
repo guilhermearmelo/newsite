@@ -6,7 +6,7 @@ import OAA_photo from '../../resources/OAA_photo.jpg';
 
 const Projects = () => {
     return (
-        <section id="projects">
+        <section id="projects" class="bg-near-white">
             <div>
                 <article>
                     <h2 class="f3 fw4 pa3 mv0">Projects</h2>
