@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/python_icon.f6a5f64d.png"
   },
   {
-    "revision": "af94e34945c4bb483165",
+    "revision": "a4ec905799e543f99b6e",
     "url": "/newsite/static/css/main.2872fc9f.chunk.css"
   },
   {
@@ -16,8 +16,12 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/css_icon.c4c26ab0.png"
   },
   {
-    "revision": "cc36221f9b94556350bb",
-    "url": "/newsite/static/js/2.cc36221f.chunk.js"
+    "revision": "b4ce38725020c014f45f",
+    "url": "/newsite/static/js/2.b4ce3872.chunk.js"
+  },
+  {
+    "revision": "3457c201891a3d7f236746906730bf60",
+    "url": "/newsite/static/media/footer.3457c201.gif"
   },
   {
     "revision": "e51235bdbda8f72647fc6a924c3ea90b",
@@ -28,16 +32,16 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/ocaml_icon.198c8b45.png"
   },
   {
-    "revision": "af94e34945c4bb483165",
-    "url": "/newsite/static/js/main.af94e349.chunk.js"
+    "revision": "a4ec905799e543f99b6e",
+    "url": "/newsite/static/js/main.a4ec9057.chunk.js"
   },
   {
     "revision": "281aa3a8eb7c71ba1623b0c50c201919",
     "url": "/newsite/static/media/lua_icon.281aa3a8.png"
   },
   {
-    "revision": "3457c201891a3d7f236746906730bf60",
-    "url": "/newsite/static/media/footer.3457c201.gif"
+    "revision": "ab026e2f02c7f6bac31a404cbe140a7b",
+    "url": "/newsite/static/media/react_icon.ab026e2f.png"
   },
   {
     "revision": "617928b266cffaac2c9f123945f8e1ec",
@@ -52,11 +56,11 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/OAA_photo.a952577f.jpg"
   },
   {
-    "revision": "cc36221f9b94556350bb",
+    "revision": "b4ce38725020c014f45f",
     "url": "/newsite/static/css/2.0d2a809b.chunk.css"
   },
   {
-    "revision": "d7317c9354d13d5acb4ab01269a80b92",
+    "revision": "594d63cab8c59094047759ade42625b7",
     "url": "/newsite/index.html"
   }
 ];
