@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/python_icon.f6a5f64d.png"
   },
   {
-    "revision": "e2a288e1051f95ba19bd",
-    "url": "/newsite/static/css/main.3863fc62.chunk.css"
+    "revision": "af94e34945c4bb483165",
+    "url": "/newsite/static/css/main.2872fc9f.chunk.css"
   },
   {
     "revision": "4582ada0361cb33b2430",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/css_icon.c4c26ab0.png"
   },
   {
-    "revision": "fa03cd3e92d445854bf0",
-    "url": "/newsite/static/js/2.fa03cd3e.chunk.js"
+    "revision": "cc36221f9b94556350bb",
+    "url": "/newsite/static/js/2.cc36221f.chunk.js"
   },
   {
     "revision": "e51235bdbda8f72647fc6a924c3ea90b",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/ocaml_icon.198c8b45.png"
   },
   {
-    "revision": "e2a288e1051f95ba19bd",
-    "url": "/newsite/static/js/main.e2a288e1.chunk.js"
+    "revision": "af94e34945c4bb483165",
+    "url": "/newsite/static/js/main.af94e349.chunk.js"
   },
   {
     "revision": "281aa3a8eb7c71ba1623b0c50c201919",
@@ -48,11 +48,15 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/robofriends_photo.dd6917a8.png"
   },
   {
-    "revision": "fa03cd3e92d445854bf0",
+    "revision": "a952577f0f08b6423cc81fcb680d728d",
+    "url": "/newsite/static/media/OAA_photo.a952577f.jpg"
+  },
+  {
+    "revision": "cc36221f9b94556350bb",
     "url": "/newsite/static/css/2.0d2a809b.chunk.css"
   },
   {
-    "revision": "43747692c208424e79fa9d2fd933f40b",
+    "revision": "d7317c9354d13d5acb4ab01269a80b92",
     "url": "/newsite/index.html"
   }
 ];
