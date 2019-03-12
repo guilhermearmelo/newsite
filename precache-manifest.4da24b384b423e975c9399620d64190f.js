@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/bootstrap_icon.4fb25ab2.png"
   },
   {
-    "revision": "834e9a01359d1ae015ab",
+    "revision": "34e2699cbd82cc7859c1",
     "url": "/newsite/static/css/main.2872fc9f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/OAA_photo.a952577f.jpg"
   },
   {
-    "revision": "c91f8bc7d4fe5a334819",
-    "url": "/newsite/static/js/2.c91f8bc7.chunk.js"
+    "revision": "0cbe105cf232a14450bf",
+    "url": "/newsite/static/js/2.0cbe105c.chunk.js"
   },
   {
     "revision": "3457c201891a3d7f236746906730bf60",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/react_icon.ab026e2f.png"
   },
   {
-    "revision": "834e9a01359d1ae015ab",
-    "url": "/newsite/static/js/main.834e9a01.chunk.js"
+    "revision": "34e2699cbd82cc7859c1",
+    "url": "/newsite/static/js/main.34e2699c.chunk.js"
   },
   {
     "revision": "b23d8b67ed5d68a4e3c2bc5ac9786f97",
@@ -76,11 +76,11 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/robofriends_photo.dd6917a8.png"
   },
   {
-    "revision": "c91f8bc7d4fe5a334819",
+    "revision": "0cbe105cf232a14450bf",
     "url": "/newsite/static/css/2.0d2a809b.chunk.css"
   },
   {
-    "revision": "f9120e5dce19036383b128cefe92e8ca",
+    "revision": "8a1b617312dcea8453ff41889018b512",
     "url": "/newsite/index.html"
   }
 ];
