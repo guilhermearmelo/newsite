@@ -38,7 +38,6 @@ const Technologies = () => {
             <div class="mw9 center ph3-ns">
             
             <div class="cf ph2-ns">
-            <h2 class="f3 fw4 pa3 mv0">Technologies</h2>
                 <div class="fl w-100 w-third-ns pa2">
                     <div class="bg-near-white pv4">
                         <article>
@@ -87,7 +86,7 @@ const Technologies = () => {
                                         <img src={javascript_icon} alt="Frank Ocean Blonde Album Cover" class="w-100 db black-10"/>
                                         <dl class="mt2 f6 lh-copy">
                                             <dt class="clip">Title</dt>
-                                            <dd class="ml0 black w-100">Javscript</dd>
+                                            <dd class="ml0 black w-100">Javascript</dd>
                                         </dl>
                                     </a>
                                 </div>
@@ -186,23 +185,6 @@ const Technologies = () => {
                                 </div>
                             </div>
                             
-                            <div class=" pa2 flex flex-wrap">
-                                <div class="fl w-20 center">
-                                    <a href="https://www.w3schools.com/" class="db link dim tc hide-child" target="_blank" rel="noopener noreferrer">
-                                        <img src={nodejs_icon} alt="Frank Ocean Blonde Album Cover" class="w-100 db black-10"/>
-                                        <dl class="mt2 f6 lh-copy">
-                                            <dt class="clip">Title</dt>
-                                            <dd class="ml0 black w-100">Node.js</dd>
-                                        </dl>
-                                    </a>
-                                </div>
-                                <div class="fl w-80">
-                                    <dl class="mt2 f6 lh-copy">
-                                        <dt class="clip">Artist</dt>
-                                        <dd class="ml0 gray w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</dd>
-                                    </dl>
-                                </div>
-                            </div>
 
                             <div class=" pa2 flex flex-wrap">
                                 <div class="fl w-20 center">
@@ -244,6 +226,25 @@ const Technologies = () => {
                         <h2 class="f3 fw4 pa3 mv0">Back-end Development</h2>
                         <div class="flex flex-column cf pa2">
                             
+                            <div class=" pa2 flex flex-wrap">
+                                <div class="fl w-20 center">
+                                    <a href="https://www.w3schools.com/" class="db link dim tc hide-child" target="_blank" rel="noopener noreferrer">
+                                        <img src={nodejs_icon} alt="Frank Ocean Blonde Album Cover" class="w-100 db black-10"/>
+                                        <dl class="mt2 f6 lh-copy">
+                                            <dt class="clip">Title</dt>
+                                            <dd class="ml0 black w-100">Node.js</dd>
+                                        </dl>
+                                    </a>
+                                </div>
+                                <div class="fl w-80">
+                                    <dl class="mt2 f6 lh-copy">
+                                        <dt class="clip">Artist</dt>
+                                        <dd class="ml0 gray w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</dd>
+                                    </dl>
+                                </div>
+                            </div>
+
+
                             <div class=" pa2 flex flex-wrap">
                                 <div class="fl w-20 center">
                                     <a href="https://www.w3schools.com/" class="db link dim tc hide-child" target="_blank" rel="noopener noreferrer">
