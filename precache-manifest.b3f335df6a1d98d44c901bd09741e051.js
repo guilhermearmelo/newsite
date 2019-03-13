@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "4fb25ab2c40a556ac251879b988cde08",
-    "url": "/newsite/static/media/bootstrap_icon.4fb25ab2.png"
+    "revision": "b23d8b67ed5d68a4e3c2bc5ac9786f97",
+    "url": "/newsite/static/media/git_icon.b23d8b67.png"
   },
   {
-    "revision": "34e2699cbd82cc7859c1",
+    "revision": "93548fa24054b05a6887",
     "url": "/newsite/static/css/main.2872fc9f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/OAA_photo.a952577f.jpg"
   },
   {
-    "revision": "0cbe105cf232a14450bf",
-    "url": "/newsite/static/js/2.0cbe105c.chunk.js"
+    "revision": "26071f7c1f8e9a546c7e",
+    "url": "/newsite/static/js/2.26071f7c.chunk.js"
   },
   {
     "revision": "3457c201891a3d7f236746906730bf60",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/react_icon.ab026e2f.png"
   },
   {
-    "revision": "34e2699cbd82cc7859c1",
-    "url": "/newsite/static/js/main.34e2699c.chunk.js"
+    "revision": "4fb25ab2c40a556ac251879b988cde08",
+    "url": "/newsite/static/media/bootstrap_icon.4fb25ab2.png"
   },
   {
-    "revision": "b23d8b67ed5d68a4e3c2bc5ac9786f97",
-    "url": "/newsite/static/media/git_icon.b23d8b67.png"
+    "revision": "93548fa24054b05a6887",
+    "url": "/newsite/static/js/main.93548fa2.chunk.js"
   },
   {
     "revision": "2001c51349ca3dcfceb56b2a2dc269d9",
@@ -68,6 +68,10 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/psql_icon.77e07584.jpg"
   },
   {
+    "revision": "65abdb1ff64d5ecb1922ff651f54afe1",
+    "url": "/newsite/static/media/dublin.65abdb1f.jpg"
+  },
+  {
     "revision": "617928b266cffaac2c9f123945f8e1ec",
     "url": "/newsite/static/media/smartbrain_photo.617928b2.png"
   },
@@ -76,11 +80,11 @@ self.__precacheManifest = [
     "url": "/newsite/static/media/robofriends_photo.dd6917a8.png"
   },
   {
-    "revision": "0cbe105cf232a14450bf",
+    "revision": "26071f7c1f8e9a546c7e",
     "url": "/newsite/static/css/2.0d2a809b.chunk.css"
   },
   {
-    "revision": "8a1b617312dcea8453ff41889018b512",
+    "revision": "56b510a4c48dffbf4cf3bd97d646c16c",
     "url": "/newsite/index.html"
   }
 ];
