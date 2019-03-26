@@ -6,10 +6,10 @@ import OAA_photo from '../../resources/OAA_photo.jpg';
 
 const Projects = () => {
     return (
-        <section id="projects" class="bg-near-white">
+        <section id="projects" class="bg-black">
             <div>
                 <article>
-                    <h2 class="f3 fw4 pa3 mv0">Projects</h2>
+                    <h2 class="red f3 fw4 pa3 mv0">Projects</h2>
                     <div class="cf pa2">
                         
                         <div class="fl w-50 w-25-m w-20-l pa2">
@@ -17,7 +17,7 @@ const Projects = () => {
                             <img src={smartbrain_photo} alt="Frank Ocean Blonde Album Cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Smart Brain</dd>
+                            <dd class="ml0 red truncate w-100">Smart Brain</dd>
                             <dt class="clip">Artist</dt>
                             <dd class="ml0 gray truncate w-100">Face-Recognition app</dd>
                             </dl>
@@ -29,7 +29,7 @@ const Projects = () => {
                             <img src={robofriends_photo} alt="Frank Ocean Blonde Album Cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Robofriends</dd>
+                            <dd class="ml0 red truncate w-100">Robofriends</dd>
                             <dt class="clip">Artist</dt>
                             <dd class="ml0 gray truncate w-100">Robot Searcher based on End Points</dd>
                             </dl>
@@ -41,7 +41,7 @@ const Projects = () => {
                             <img src={OAA_photo} alt="Frank Ocean Blonde Album Cover" class="w-100 db outline black-10"/>
                             <dl class="mt2 f6 lh-copy">
                             <dt class="clip">Title</dt>
-                            <dd class="ml0 black truncate w-100">Open Angel Arena</dd>
+                            <dd class="ml0 red truncate w-100">Open Angel Arena</dd>
                             <dt class="clip">Artist</dt>
                             <dd class="ml0 gray truncate w-100">Really Cool Game Mode</dd>
                             </dl>

@@ -34,14 +34,14 @@ import psql_icon from '../../resources/psql_icon.jpg';
 
 const Technologies = () => {
     return (
-        <section id="technologies" class="bg-near-white">
+        <section id="technologies" class="bg-black">
             <div class="mw9 center ph3-ns">
             
             <div class="cf ph2-ns">
                 <div class="fl w-100 w-third-ns pa2">
-                    <div class="bg-near-white pv4">
+                    <div class="bg-black pv4">
                         <article>
-                        <h2 class="f3 fw4 pa3 mv0">Front-end Development</h2>
+                        <h2 class="f3 fw4 pa3 mv0 red">Front-end Development</h2>
                         <div class="flex flex-column cf pa2">
                             
                             <div class=" pa2 flex flex-wrap">
@@ -50,14 +50,14 @@ const Technologies = () => {
                                         <img src={html_icon} alt="Frank Ocean Blonde Album Cover" class="w-100 db black-10"/>
                                         <dl class="mt2 f6 lh-copy">
                                             <dt class="clip">Title</dt>
-                                            <dd class="ml0 black w-100">HTML5</dd>
+                                            <dd class="ml0 red w-100">HTML5</dd>
                                         </dl>
                                     </a>
                                 </div>
                                 <div class="fl w-80">
                                     <dl class="mt2 f6 lh-copy">
                                         <dt class="clip">Artist</dt>
-                                        <dd class="ml0 gray w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</dd>
+                                        <dd class="ml0 gray w-100">Linguagem de marcação utilizada na construção de páginas na Web</dd>
                                     </dl>
                                 </div>
                             </div>
@@ -68,14 +68,14 @@ const Technologies = () => {
                                         <img src={css_icon} alt="Frank Ocean Blonde Album Cover" class="w-100 db black-10"/>
                                         <dl class="mt2 f6 lh-copy">
                                             <dt class="clip">Title</dt>
-                                            <dd class="ml0 black w-100">CSS3</dd>
+                                            <dd class="ml0 red w-100">CSS3</dd>
                                         </dl>
                                     </a>
                                 </div>
                                 <div class="fl w-80">
                                     <dl class="mt2 f6 lh-copy">
                                         <dt class="clip">Artist</dt>
-                                        <dd class="ml0 gray w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</dd>
+                                        <dd class="ml0 gray w-100">Linguagem de folhas de estilo para web</dd>
                                     </dl>
                                 </div>
                             </div>
@@ -161,9 +161,9 @@ const Technologies = () => {
 
 
                 <div class="fl w-100 w-third-ns pa2">
-                    <div class="bg-near-white pv4">
+                    <div class="bg-black pv4">
                         <article>
-                        <h2 class="f3 fw4 pa3 mv0">Developer Enviroment</h2>
+                        <h2 class="f3 fw4 pa3 mv0 red">Developer Enviroment</h2>
                         <div class="flex flex-column cf pa2">
                             
                     
@@ -221,9 +221,9 @@ const Technologies = () => {
 
 
                 <div class="fl w-100 w-third-ns pa2">
-                    <div class="bg-near-white pv4">
+                    <div class="bg-black pv4">
                         <article>
-                        <h2 class="f3 fw4 pa3 mv0">Back-end Development</h2>
+                        <h2 class="f3 fw4 pa3 mv0 red">Back-end Development</h2>
                         <div class="flex flex-column cf pa2">
                             
                             <div class=" pa2 flex flex-wrap">
